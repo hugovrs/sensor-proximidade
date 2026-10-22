@@ -1,4 +1,4 @@
-# sensor-proximidade
+# Sensor de Proximidade
 Brincando com Sensor Ultrassônico
 
 # Materiais Utilizados
